@@ -1,6 +1,6 @@
 {
   "name": "com.zeph1rr.gamebase",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "GameBase",
   "description": "A base set of services and utilities for rapid Unity game development: DI container, coroutines manager, settings system, scene entry points, and more.",
   "unity": "6000.0",
