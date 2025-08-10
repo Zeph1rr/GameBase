@@ -1,0 +1,29 @@
+{
+  "name": "com.zeph1rr.gamebase",
+  "version": "1.0.0",
+  "displayName": "GameBase",
+  "description": "A base set of services and utilities for rapid Unity game development: DI container, coroutines manager, settings system, scene entry points, and more.",
+  "unity": "6000.0.0",
+  "unityRelease": "0f1",
+  "author": {
+    "name": "Zeph1rr",
+    "email": "grianton535@gmail.com",
+    "url": "https://github.com/Zeph1rr"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Zeph1rr/GameBase.git"
+  },
+  "dependencies": {
+    "com.unity.nuget.newtonsoft-json": "3.0.2"
+  },
+  "keywords": [
+    "unity",
+    "framework",
+    "gamebase",
+    "di",
+    "settings",
+    "coroutines"
+  ],
+  "license": "MIT"
+}
