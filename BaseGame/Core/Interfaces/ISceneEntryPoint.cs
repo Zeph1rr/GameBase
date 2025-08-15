@@ -6,6 +6,6 @@ namespace BaseGame.Core.Interfaces
     public interface ISceneEntryPoint
     {
         public IEnumerator Init(DIContainer rootContainer);
-        public void Start();
+        public void Run();
     }
 }
