@@ -1,5 +1,8 @@
 # CHANGELOG
 
+## 1.0.5
+- Changed ISceneEntryPoint.Init() from coroutines to async
+
 ## 1.0.4
 
 - Added SceneService
